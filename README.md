@@ -30,8 +30,8 @@
 
 | 이름   | GitHub |
 |--------|--------|
-| 제프리    | [@제프리](https://github.com/?) |
+| 제프리    | [@제프리](https://github.com/AppleMint98) |
 | 밍트     | [@밍트](https://github.com/Starlight258) |
 | 밍곰     | [@밍곰](https://github.com/minSsan) |
-| 레오     | [@레오](https://github.com/?) |
+| 레오     | [@레오](https://github.com/kjyyjk) |
 | 포라     | [@포라](https://github.com/nourzoo) |
