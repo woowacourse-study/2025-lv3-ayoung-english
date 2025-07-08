@@ -31,7 +31,7 @@
 | 이름   | GitHub |
 |--------|--------|
 | 제프리    | [@제프리](https://github.com/AppleMint98) |
-| 밍트     | [@밍트](https://github.com/Starlight258) |
+| 멍구     | [@밍트](https://github.com/YuyoungRhee) |
 | 밍곰     | [@밍곰](https://github.com/minSsan) |
 | 레오     | [@레오](https://github.com/kjyyjk) |
 | 포라     | [@포라](https://github.com/nourzoo) |
