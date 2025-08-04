@@ -28,10 +28,7 @@
 
 ## 👥 스터디원
 
-| 이름   | GitHub |
-|--------|--------|
-| 제프리    | [@제프리](https://github.com/AppleMint98) |
-| 멍구     | [@멍❤️](https://github.com/YuyoungRhee) |
-| 밍곰     | [@밍곰](https://github.com/minSsan) |
-| 레오     | [@레오](https://github.com/kjyyjk) |
-| 포라     | [@포라](https://github.com/nourzoo) |
+
+|<img src="https://github.com/AppleMint98.png" width="125" />|<img src="https://github.com/YuyoungRhee.png" width="125" />|<img src="https://github.com/minSsan.png" width="125" />|<img src="https://github.com/kjyyjk.png" width="125" />|<img src="https://github.com/nourzoo.png" width="125" />|
+|:---------:|:---------:|:---------:|:---------:|:---------:|
+|[제프리](https://github.com/AppleMint98)|[멍구](https://github.com/YuyoungRhee)|[밍곰](https://github.com/minSsan)|[레오](https://github.com/kjyyjk)|[포라](https://github.com/nourzoo)|
